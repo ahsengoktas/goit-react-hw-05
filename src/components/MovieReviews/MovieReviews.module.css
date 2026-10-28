@@ -1,0 +1,17 @@
+.list {
+  padding: 0;
+  list-style: none;
+}
+
+.item {
+  margin-bottom: 20px;
+}
+
+.item h4 {
+  margin: 0 0 8px;
+}
+
+.item p {
+  margin: 0;
+  white-space: pre-line;
+}

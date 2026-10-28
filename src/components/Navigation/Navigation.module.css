@@ -1,0 +1,20 @@
+.header {
+  padding: 20px 36px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.nav {
+  display: flex;
+  gap: 20px;
+}
+
+.link {
+  font-size: 22px;
+  font-weight: 500;
+  text-decoration: none;
+  color: #212121;
+}
+
+.active {
+  color: #e0405f;
+}
